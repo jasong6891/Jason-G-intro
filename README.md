@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasong6891
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me-jasong6891@gmail.com or 760-672-1919
 
