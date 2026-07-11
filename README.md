@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jasong6891
 - 👀 I’m interested in information technology
-- 🌱 I’m currently learning Systems Administration and Cybersecurity
-- 💞️ I’m looking to collaborate on cybersecurity projects
+- 🌱 I’m currently learning Systems Administration and Cloud Computing
+- 💞️ I’m looking to collaborate on Cloud Projects
 - 📫 How to reach me-jasong6891@gmail.com or 760-672-1919
 
 <!---
