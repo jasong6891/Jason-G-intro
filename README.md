@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @jasong6891
 - 👀 I’m interested in Linux, Git, and Terraform
 - 🌱 I’m currently learning Bash Scripting and Terraform using hands-on lab work.
+- Currently I attend Point Loma Nazarene University for a Bachelor's of Arts.
+- I hold the Network+, Security+, and Linux+ from CompTIA.
 - 📫 How to reach me- jasong6891@gmail.com or 760-672-1919
 
 <!---
