@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasong6891
-- 👀 I’m interested in information technology
-- 🌱 I’m currently learning Bash Scripting and Terraform
+- 👀 I’m interested in Linux, Git, and Terraform
+- 🌱 I’m currently learning Bash Scripting and Terraform using hands-on lab work.
 - 📫 How to reach me- jasong6891@gmail.com or 760-672-1919
 
 <!---
